@@ -1,0 +1,110 @@
+AH;"Bloom Commodity Index";Future;
+BDR;"DJ-UBS Roll Select Index Futures";Future;
+BDW;"Thailand Long Grain White Rice (Platts) Futures";Future;USD
+BIB;"7-Year ERIS Swap Futures";Future;USD
+BIE;"30-Year ERIS Swap Futures";Future;USD
+BIF;"4-Year ERIS Swap Futures";Future;
+BIH;"3-Year ERIS Swap Futures";Future;
+BII;"12-Year ERIS Swap Futures";Future;USD
+BIL;"15-Year ERIS Swap Futures";Future;USD
+BIO;"20-Year ERIS Swap Futures";Future;USD
+BIT;"2-Year ERIS Swap Futures";Future;
+BIW;"5-Year ERIS Swap Futures";Future;
+BIY;"10-Year ERIS Swap Futures";Future;USD
+BJA;"1-Year Eris SOFR Swap Futures";Future;
+BJB;"7-Year Eris SOFR Swap Futures";Future;USD
+BJC;"3-Year Eris SOFR Swap Futures";Future;
+BJD;"4-Year Eris SOFR Swap Futures";Future;
+BJE;"30-Year Eris SOFR Swap Futures";Future;USD
+BJF;"5-Year MAC SOFR Swap Futures";Future;
+BJI;"12-Year Eris SOFR Swap Futures";Future;
+BJL;"15-Year Eris SOFR Swap Futures";Future;
+BJN;"10-Year MAC SOFR Swap Futures";Future;
+BJO;"20-Year Eris SOFR Swap Futures";Future;
+BJQ;"20-Year MAC SOFR Swap Futures";Future;
+BJR;"30-Year MAC SOFR Swap Futures";Future;
+BJS;"7-Year MAC SOFR Swap Futures";Future;
+BJT;"2-Year Eris SOFR Swap Futures";Future;
+BJU;"2-Year MAC SOFR Swap Futures";Future;
+BJW;"5-Year Eris SOFR Swap Futures";Future;USD
+BJY;"10-Year Eris SOFR Swap Futures";Future;USD
+BKB;"7-Year Eris BSBY Swap Futures";Future;
+BKC;"3-Year Eris BSBY Swap Futures";Future;
+BKF;"4-Year Eris BSBY Swap Futures";Future;
+BKT;"2-Year Eris BSBY Swap Futures";Future;
+BKY;"10-Year Eris BSBY Swap Futures";Future;
+BO;"Soybean Oil (Pit)";Future;
+BUN;"30-Year UMBS TBA Futures - 2.0% Coupon";Future;
+BUO;"30-Year UMBS TBA Futures - 2.5% Coupon";Future;
+BUP;"30-Year UMBS TBA Futures - 3.0% Coupon";Future;
+BUQ;"30-Year UMBS TBA Futures - 3.5% Coupon";Future;
+BUR;"30-Year UMBS TBA Futures - 4.0% Coupon";Future;
+BUS;"30-Year UMBS TBA Futures - 4.5% Coupon";Future;
+BUT;"30-Year UMBS TBA Futures - 5.0% Coupon";Future;
+BUU;"30-Year UMBS TBA Futures - 5.5% Coupon";Future;
+BUV;"30-Year UMBS TBA Futures - 6.0% Coupon";Future;
+BUW;"30-Year UMBS TBA Futures - 6.5% Coupon";Future;
+BVI;"1-Year Eris BSBY Swap Futures vs 1-Year Eris SOFR Swap Futures Intercommodity Ratio Spread";Future;
+BVJ;"2-Year Eris BSBY Swap Futures vs 2-Year Eris SOFR Swap Futures Intercommodity Ratio Spread";Future;
+BVK;"3-Year Eris BSBY Swap Futures vs 3-Year Eris SOFR Swap Futures Intercommodity Ratio Spread";Future;
+BVP;"4-Year Eris BSBY Swap Futures vs 4-Year Eris US Dollar Swap Futures Intercommodity Ratio Spread";Future;
+BVQ;"5-Year Eris BSBY Swap Futures vs 5-Year Eris US Dollar Swap Futures Intercommodity Ratio Spread";Future;
+BVR;"7-Year Eris BSBY Swap Futures vs 7-Year Eris US Dollar Swap Futures Intercommodity Ratio Spread";Future;
+BVS;"10-Year Eris BSBY Swap Futures vs 10-Year Eris US Dollar Swap Futures Intercommodity Ratio Spread";Future;
+BY0;"BTIC on E-Mini Dow Futures";Future;
+C;"Corn (Pit)";Future;
+CS;"Soybean Crush";Future;
+DH;"DJ Real Estate Index";Future;
+F3;"Australian Wheat FOB";Future;
+F4;"Urea FOB MidEast Swap";Future;USD
+F9;"MAP CFR Brazil";Future;USD
+FZ;"Ethanol Forward";Future;
+JC;"Urea FOB US Gulf";Future;
+JF;"Urea FOB Egypt";Future;USD
+JL;"Urea CFR Brazil";Future;USD
+JP;"DAP FOB NOLA";Future;USD
+JR;"Canadian Wheat FOB";Future;
+JS;"FOB Santos Soybeans";Future;
+JW;"UAN FOB NOLA";Future;USD
+MK;"Hard Red Wheat Mini";Future;
+O;"Oats (Pit)";Future;
+S;"Soybean (Pit)";Future;
+SM;"Soybean Meal (Pit)";Future;
+TF;"5-Year Yield Futures";Future;
+TKE;"KC HRW Wheat (TAS)";Future;
+TN;"Ultra 10-Year T-Note";Future;
+TO;"10-Year Yield Futures";Future;
+TU;"2-Year Yield Futures";Future;
+TY;"10-Year T-Note (Pit)";Future;
+TYX;"TMAC on E-mini Dow Jones Industrial Average futures";Future;
+TZ;"30-Year Yield Futures";Future;
+TZC;"Corn (TAS)";Future;
+TZI;"Soybean Oil (TAS)";Future;
+TZM;"Soybean Meal (TAS)";Future;
+TZS;"Soybean (TAS)";Future;
+TZW;"Chicago SRW Wheat (TAS)";Future;
+UD;"Ultra T-Bond";Future;
+US;"30-Year T-Bond (Pit)";Future;
+VU;"Micro Ultra 10Yr Note";Future;
+VV;"Micro Ultra 30Yr Bond";Future;
+W;"Wheat (Pit)";Future;
+XK;"Soybean Mini";Future;
+XN;"Corn Mini";Future;
+XW;"Wheat Mini";Future;
+YM;"Dow Futures Mini";Future;
+YR;"Dow Futures Micro";Future;
+ZB;"30-Year T-Bond";Future;
+ZC;Corn;Future;
+ZE;"3-Year T-Note";Future;
+ZF;"5-Year T-Note";Future;
+ZK;"Ethanol Futures";Future;
+ZL;"Soybean Oil";Future;
+ZM;"Soybean Meal";Future;
+ZN;"10-Year T-Note";Future;
+ZO;Oats;Future;
+ZQ;"30-Day Fed Funds";Future;
+ZR;"Rough Rice";Future;
+ZS;Soybean;Future;
+ZT;"2-Year T-Note";Future;
+ZW;Wheat;Future;
+ZZ;"20-Year T-Bond";Future;
